@@ -10,7 +10,7 @@ import { useEffect } from "react";
 import { auth } from "./firebase";
 import { useStateValue } from "./StateProvider";
 import ZillowHeader from "./components/ZillowHeader";
-import ZillowHome from "./components/ZillowHome";
+// import ZillowHome from "./components/ZillowHome";
 import Payment from "./Payment";
 import { loadStripe } from "@stripe/stripe-js";
 import { Elements } from "@stripe/react-stripe-js";
