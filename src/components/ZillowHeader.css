@@ -1,0 +1,26 @@
+.zillow__container {
+  height: 75px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: white;
+}
+.zillow__optionRight {
+  margin-right: 50px;
+}
+.zillow__logo {
+  width: 150px;
+  margin: 14px 20px;
+  object-fit: contain;
+}
+.zillow__optionContainer {
+  list-style: none;
+  display: flex;
+}
+.zillow__optionList {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+a:link {
+  text-decoration: none;
+}

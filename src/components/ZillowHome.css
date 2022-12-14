@@ -1,0 +1,17 @@
+.zillow__top {
+  display: flex;
+  align-items: center;
+  background-image: url("./home.jpg");
+  flex-direction: column;
+  background-size: contain;
+  height: 350px;
+}
+
+.zillow__input {
+  height: 50px;
+  width: 600px;
+}
+.zillow__theme {
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
